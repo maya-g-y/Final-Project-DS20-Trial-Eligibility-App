@@ -1,0 +1,18 @@
+# data and vector stores
+data/
+!data/README.md
+
+# python cache
+__pycache__/
+*.pyc
+
+# notebooks
+.ipynb_checkpoints/
+
+# local env
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
